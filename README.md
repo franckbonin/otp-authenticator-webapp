@@ -6,7 +6,7 @@ A *Google Authenticator* like offline webapp.
 
 ## ☂️ No External Services are used, local JavaScript execution only ☂️
 
-Hosted at github pages: https://qoomon.github.com/otp-authenticator-webapp/
+Hosted at github pages: https://franckbonin.github.com/otp-authenticator-webapp/
 * branch: [gh-pages](https://github.com/qoomon/otp-authenticator-webapp/tree/gh-pages)
 
 Or host it on your onw GitHub account 
